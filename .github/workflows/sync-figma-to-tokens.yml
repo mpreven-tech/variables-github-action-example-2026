@@ -32,7 +32,7 @@ jobs:
         run: npm run sync-figma-to-tokens -- --output tokens
         env:
           FILE_KEY: WJWUbAbyzNNkyUnXRdZRDP
-          PERSONAL_ACCESS_TOKEN: L3@nB3@n90!work!
+          PERSONAL_ACCESS_TOKEN: 
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
