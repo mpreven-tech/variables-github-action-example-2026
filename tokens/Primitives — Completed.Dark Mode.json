@@ -3,7 +3,7 @@
     "gray": {
       "50": {
         "$type": "color",
-        "$value": "#eedeff",
+        "$value": "#f1f1f1",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -17,7 +17,7 @@
       },
       "200": {
         "$type": "color",
-        "$value": "#cfa0ff",
+        "$value": "#202020",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -31,7 +31,7 @@
       },
       "400": {
         "$type": "color",
-        "$value": "#b874ff",
+        "$value": "#333333",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -45,7 +45,7 @@
       },
       "600": {
         "$type": "color",
-        "$value": "#bc7cff",
+        "$value": "#333333",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -59,7 +59,7 @@
       },
       "800": {
         "$type": "color",
-        "$value": "#a854ff",
+        "$value": "#f1f1f1",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -73,7 +73,7 @@
       },
       "900": {
         "$type": "color",
-        "$value": "#33057e",
+        "$value": "#f1f1f1",
         "$description": "",
         "$extensions": {
           "com.figma": {
